@@ -1,8 +1,0 @@
-
-name="AllThatPlus Wizard"
-url="https://docs.google.com/uc?export=download&confirm=H5tf&id=0B-5ouy64wioZcG9kWGhYempaeGs"
-img="https://raw.githubusercontent.com/lejuans01/All-That-Plus/master/screenshot001.png"
-fanart="https://raw.githubusercontent.com/lejuans01/All-That-Plus/master/screenshot001.png"
-description="All That Plus"
-
-
